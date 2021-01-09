@@ -1,0 +1,1253 @@
+<resources>
+    <string name="app_name">Ten minute recipes</string>
+    <string name="r1_title">Chat Pata Omelette</string>
+    <string name="r1_ehjza">"
+        1 egg (Phenter)2 pieces
+        2 onions (finely chopped) 1 piece
+        3 fodder size garlic (thickly chopped) 1 gamble
+        4: green chillies (finely chopped) 1 piece
+        5: tomatoes (finely chopped) 1 number
+        6: potatoes (boil) Square piece) stuff) a number
+        7: meters (from throat) 25 grams
+        8: cheese (shredded) 25 grams
+        9: green coriander (chopped) some leaves"
+    </string>
+    <string name="r1_tarqeeb">
+        step1:Heat two tablespoons of oil and fry onion, half a teaspoon of cumin (crushed) garlic, green chillies, coriander and peas in it.
+         step2:Grind lightly with a spoon.
+         step3:Do not grind tomatoes and potatoes too much.Add scrambled eggs over high heat and cover.
+         step4:When golden from the bottom, sprinkle with cheese and place under a hot broiler.
+         step5:When serving, garnish with chopped green peppers
+    </string>
+
+
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="r2_title">Special Breakfast Recipe </string>
+    <string name="r2_ehjza">
+"1:egg 5 pieces
+2:minced chicken (chicken) 100 grams
+3:hot spices half a teaspoon
+4:salt to taste
+5:bread slices 4 to 5 pieces
+
+For topping:
+1:mushroom 100 gms
+2:onions and tomatoes as required
+3:salt and pepper powder to taste"
+    </string>
+    <string name="r2_tarqeeb">
+"1:Heat a tablespoon of oil in a pot and cook it for 5 minutes by adding minced meat and hot spices.
+2:Beat the eggs.Mix the minced meat and salt in it and make it into a hot oil omelette in the pan.
+3:Grind the tomato pieces in salt.
+4:Brown the slices for serving.
+5:Place the omelette on the slice.
+6:Layer the onion and tomato in it and serve hot."
+    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="r3_title">Cheese omelette recipe</string>
+    <string name="r3_ehjza">
+"1:Three eggs
+2:Salt to taste
+3:Pepper half a teaspoon
+4:Two green peppers
+4:one tablespoon of green coriander
+5:quarter teaspoon of oil
+6:Three slices of cheese"
+    </string>
+    <string name="r3_tarqeeb">
+"1:break 3 eggs into a bowl.add 1/4 tsp of salt.
+2:add two tablespoon of fresh cream and add 1/2 tsp pepper powder and mix it well
+3:add 1 and half tsp of butter into a pan.pour a egg mixture and cook on medium heat.
+4:after 5 minute sprinkel grated cheddar cheese and some coriander or parsley leaves.
+5:cook for some time on medium to low heat.fold it and again cook for 30 second.
+6:take into a plate and serve."
+    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="r4_title">Chilli cheese toast</string>
+    <string name="r4_ehjza">"
+1:Burger Bun
+2:Tomato
+3:Onion
+4:Green chilli
+5:cheese slice
+6:salt"
+    </string>
+    <string name="r4_tarqeeb">"
+Step1: Pull out the bread to make hole and use this bread to make a bread crumbs.
+Step2: Add tomato,onion salt and green chilli in this hole and closed the hole using cheese slice.
+Step3: place it on a baking tray and bake for 8 minutes.
+Step4: Garnish it with chilli flakes and oregano. "
+    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="r5_title">Best Chicken Stuffed Omelet</string>
+    <string name="r5_ehjza">"
+Cooking oil 1 tbs
+Garlic chopped 2 tbs
+Chicken boneless small cubes 250 gms
+Soy sauce 1 tbs
+Black pepper powder ½ tsp
+Paprika powder 1 tsp
+Dried oregano 1 tsp
+Salt ½ tsp or to taste
+Green chilli 1
+Tomato ketchup 1 tbs
+Capsicum julienne as required
+Eggs 2
+Salt to taste
+Mozzarella cheese grated as required
+   " </string>
+    <string name="r5_tarqeeb">"
+In frying pan,add cooking oil,garlic and mix well.
+Add chicken and mix well until changes color.
+Add soya sauce,black pepper powder,paprika powder,dried oregano,salt,mix well and cook for 4-5 minutes.
+Add green chilli and mix.
+Add tomato ketchup and mix well.
+Add tomato and capsicum,mix well for 1-2 minutes and set aside.
+In bowl,add eggs,salt,black pepper powder and whisk well.
+In frying pan,add cooking oil and egg mixture,cook on low flame for 2 minutes then flip and cook other side for a minute.
+Now add cooked chicken mixture and mozzarella cheese,fold and cook on low flame for 30 seconds and serve!"
+
+    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="r6_title">Spinach and Swiss cheese Fluffy omelette with ham</string>
+    <string name="r6_ehjza">"
+2 eggs, separated
+1 tablespoon milk
+1/2 cup baby spinach leaves
+2 slices shaved ham, torn roughly
+1/4 cup grated light Swiss cheese"
+
+    </string>
+    <string name="r6_tarqeeb">"
+       Step 1:
+Place the egg yolks in a bowl with the milk and combine. In a separate bowl, whisk the egg whites to medium soft peaks. Gently fold into the egg yolk mixture. Set aside (do not allow to sit for too long).
+Step 2:
+Spray a small non-stick frying pan with oil spray and place over medium heat. Add the baby spinach and cook for 1-2 minutes or until wilted. Remove from pan and wipe pan clean. Spray pan again and return to the heat.
+Step 3:
+Pour in the egg mixture and cook for 2-3 minutes or until surface is nearly firm. Place the ham, spinach and cheese over half the omelette, then fold over the other side to enclose the filling. Serve immediately. Repeat ingredients and method for additional omelettes.
+"
+    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="r7_title">French Toast with Jam and Cream</string>
+    <string name="r7_ehjza">"
+cream cheese 2 tablespoons, softened
+cinnamon-raisin bread 2 thick slices
+strawberry jam 2 tablespoons
+egg 1
+butter 1 tablespoon
+Maple syrup, optional
+
+        "
+    </string>
+    <string name="r7_tarqeeb">
+        "Spread cream cheese on one slice of bread. Spread jam on the other slice place jam side down over the cream cheese.
+        In a shallow bowl, beat egg. Dip both sides of bread into egg.
+        In a small skillet, melt butter; toast bread for 3-4 minutes on each side or until golden brown. Serve with syrup if desired."
+    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="r8_title">Creamy Sandwiches Recipe</string>
+    <string name="r8_ehjza">"
+1Chicken seasonings (boiled and fiber) 250 gms
+2 cucumbers (finely chopped) 1 tablespoon
+3 olives (finely chopped) 1/2 cup
+4 carrots (finely chopped) 1/2 cup
+5 cabbage (finely chopped) 1/2 Cup
+6 finely ground sugar 1 tablespoon
+7 chopped pepper 1/2 teaspoon
+8 ground white pepper 1 tablespoon
+9 mayonnaise 1/4 cup
+10 fresh cream 1/4 cup
+11 tomato ketchup 1 cup
+12 double bread custom
+13 salt to taste
+14 butter To make
+15 tomato salad leaves"
+    </string>
+    <string name="r8_tarqeeb">"
+1 Layer butter and tomato ketchup on double bread
+2 Mix all the remaining ingredients in a bowl
+3 1/2 Layer the mixture on the slices
+4 Place the rest on top of them and cut into triangles
+5 Decorate the serving dish with tomatoes and salad leaves
+6 Serve with sandwiches on them."
+
+    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="l1_title">Shahi Karahi Recipe</string>
+    <string name="l1_ehjza">"
+1 Mutton (cut into cubes) 1 kg
+2 red chilli powder 1 teaspoon
+3 hot spice powder 1 teaspoon
+4 black pepper powder 1/2 teaspoon
+5 coriander (fry) 1 teaspoon
+6 cumin (fry and coat) 1 teaspoon Tablespoon
+7 turmeric powder 1/2 teaspoon
+8 milk 1/2 cup
+9 fresh cream 1/2 cup
+10 yogurt 1/2 cup
+11 garlic paste 1 tablespoon
+12 ginger paste 1 tablespoon
+13 oil customized
+14 salt to taste"
+    </string>
+    <string name="l1_tarqeeb">"
+1: Put water and meat in a saucepan and cook on medium heat.
+2: When the meat is 80% cooked, remove from the heat.
+3: Heat oil in a frying pan. Add garlic, ginger paste and fry for 2-3 minutes.
+4: Add hot spice powder, coriander, cumin, black chilli powder,turmeric powder, salt and milk and cook on medium heat.
+5: Add 4 meats and cook for 5 more minutes. Mix.
+6: Take out in a serving dish and start hot with bread or chapatti."
+
+    </string>
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="l2_title">Olive Chicken</string>
+    <string name="l2_ehjza">"
+1: hundred grams of chicken
+2: Three tablespoons of olive oil
+3: Salt to taste
+4: one teaspoon of pepper
+5: Two Tablespoon of red pepper (chopped)
+6: Three tablespoons of lemon juice
+7: Three tablespoons of tomato paste
+8: Three tablespoons of butter
+9:  A number of onions (chopped)
+10: Garlic cloves five pieces (chopped)
+11: Ten olives
+12: Parcel as requireds"
+    </string>
+    <string name="l2_tarqeeb">"
+1: Apply olive oil, salt, pepper, red pepper, lemon juice and tomato paste to the chicken.
+2: Then steam the chicken for ten minutes until the chicken is melted.
+3: Saute onion and garlic in butter.
+4: Then add chicken stock and bring to a boil.
+5: Then add the steamed chicken and cook for five minutes.
+6: Finally add the olives.
+7: Garnish with parsley and serve."
+
+    </string>
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="l3_title">Creamed Steak Recipe</string>
+    <string name="l3_ehjza">"
+1: Undercut two numbers (cut into strips)
+2: Butter four tablespoons
+3: A number of onions (finely chopped)
+4: Two mushrooms (large)
+5: A quarter teaspoon of salt
+6: Two cloves of garlic (crushed)
+7: Parsley and a half teaspoons)
+8: Basel leaves a teaspoon (dry)
+9: Oregano leaves a teaspoon (dry)
+10: Ginger half a teaspoon
+11: A cup of cream
+12: Two pickled cucumbers
+13: Half a cup of parmesan cheese
+14: Cheddar cheese half a cup
+"
+    </string>
+    <string name="l3_tarqeeb">"
+1:Heat butter in a pan, add onion and mushrooms and cook.
+2:Then add steak and salt and fry well.
+3:Now add garlic cloves, chopped parsley, basil leaves, oregano leaves and ginger.
+4:Add cream, pickled, parmesan cheese and cheddar cheese and mix well.
+5:Then cover and simmer on low heat for ten to fifteen minutes, until the sauce thickens.
+6:Now serve the prepared sauce with mashed potatoes.
+"
+
+    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="l4_title">Paya Curry (Beef Trotters/Feets)</string>
+    <string name="l4_ehjza">"
+1:Beef found (next part) a pair
+2:Twelve cups of water
+3:Ginger Garlic Paste Two tablespoons
+4:A teaspoon of turmeric
+5:Two tablespoons of coriander powder
+6:Salt to taste
+7:A tablespoon of red pepper powder
+8:A tablespoon of Kashmiri red pepper
+9:One slice of onion
+10:A tablespoon of hot saffron spices
+11:A teaspoon of fennel
+"
+    </string>
+    <string name="l4_tarqeeb">"
+Soak the pies in warm water for half an hour and then clean the hair on them with a brush.
+Take water in a large saucepan and put the feet in it and boil them. There should be enough water to drown them.
+Add ginger garlic paste, turmeric, coriander powder, salt, red chilli powder, Kashmiri red chilli and onion and let it boil.
+When it boils, add yoghurt and cover and cook over low heat.
+When the pies are melted, add hot saffron spices and fennel and cook for five minutes.
+Pour into a serving bowl and serve with bread."
+
+    </string>
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="l5_title">Behari Boti (Beef Behari BBQ)</string>
+    <string name="l5_ehjza">"
+Beef fillet half a kilo (finely chopped)
+One hundred grams of yogurt
+Two tablespoons of papaya paste
+One piece of onion (chopped and fried)
+Garlic Ginger Paste Two tablespoons
+White cumin a teaspoon (roasted and crushed)
+Red pepper 1 tablespoon or to taste Chopped
+A teaspoon of hot spice powder
+Half a teaspoon of turmeric powder
+Basin four tablespoons (roasted)
+Four tablespoons of mustard oil
+Salt to taste
+
+For garnishing:
+Three to four salad leaves
+Two to three cucumbers
+"
+    </string>
+    <string name="l5_tarqeeb">"
+
+Take a cup and mix it well with beef pieces, all spices and ingredients.
+Now leave this mixture for two to three hours.
+Now put my netted meat on the skewers and barbecue. Or you can bake or fry if you like.
+Serve hot spring herbs with salad leaves, cucumbers and tomatoes.Take a cup and mix it well with beef pieces, all spices and ingredients.
+Now leave this mixture for two to three hours.
+Now put my netted meat on the skewers and barbecue. Or you can bake or fry if you like.
+Serve hot spring herbs with salad leaves, cucumbers and tomatoes.
+"
+
+    </string>
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="l6_title"> Lamb Kababs Recipe</string>
+    <string name="l6_ehjza">"
+
+Lamb mince 450 gm
+Onion 1
+Garlic clove 1 crushed
+Green chili 1
+Red chili powder ½ tsp
+Coriander powder 1 tbsp
+Cumin powder ½ tsp
+Salt to taste
+Egg 1
+Yogurt 1 tbsp
+Oil as required
+"
+    </string>
+    <string name="l6_tarqeeb">"
+Grind onion, green chilli, coriander and all spices (green coriander, red pepper, garlic, cumin and salt) in a grinder.
+Then add egg and grind more.
+Then take it out in a bowl and keep it in the fridge for one hour (marinate for 1 hour).
+Heat a grill pan and make kebabs of the mixture.
+Now apply oil and yoghurt on these kebabs with the help of a brush and place them on the grill to cook. When ready, serve with raita.
+"
+
+    </string>
+
+
+
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="l7_title">Chinese Chicken Fried Rice</string>
+    <string name="l7_ehjza">"
+Chicken breast 2
+400 grams of boiled rice
+1 cup boiled peas
+Capsicum 1 cup
+1 cup of mushrooms
+Eggs 8
+1 tablespoon chicken powder
+1 tablespoon soy sauce
+Dark soy sauce 1 tbsp
+Green onion 8
+Olive oil or butter as needed
+Pepper to taste
+"
+    </string>
+    <string name="l7_tarqeeb">"
+First boil the chicken and fry it. Now beat the eggs, add salt and green onion in them and beat.
+Now heat oil in an open pan and add mushrooms and fry lightly.
+Now add chicken, peas and capsicum and fry and mix with dark soy sauce and scrambled eggs etc. and add chicken powder.
+Mix them all, then add light soy sauce and black pepper and finally mix the rice.
+Let it cook and when ready, dish out and serve hot.
+"
+
+    </string>
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="l8_title">Fried Chops with Capsicum</string>
+    <string name="l8_ehjza">"
+Chopin half a kilo
+One pound of yogurt
+Salt to taste
+A teaspoon of pepper powder
+A teaspoon of white cumin
+A teaspoon of hot spice powder
+A teaspoon of coriander powder
+Three tablespoons of vinegar
+Two tablespoons of soy sauce
+Two tablespoons of oil
+A quarter cup of oil
+(Capsicum a number (chopped)
+One onion
+Three to four green peppers
+"
+    </string>
+    <string name="l8_tarqeeb">"
+Add salt, pepper, white cumin, hot spices, coriander powder, vinegar, soy sauce and two tablespoons of oil to the first yogurt and mix well.
+Then put the chops in a pan with yoghurt and cook.
+When the spices start to dry, add water and mix well.
+Now heat oil in another pan and lightly fry capsicum, onion and green chillies.
+Now mix these vegetables in the chops and cook for a few seconds and take them off the stove and serve hot when ready."
+    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="l9_title">Chicken Roast Recipe</string>
+    <string name="l9_ehjza">"
+Chicken with a number of skins
+Four tablespoons of oyster sauce
+Ginger Garlic Paste Two tablespoons
+Two lemons
+One onion
+One green onion (cut the leaves)
+Ginger One Piece (Medium Size)
+Garlic three to four cloves
+Half a teaspoon of cinnamon powder
+A quarter teaspoon of pepper
+A quarter teaspoon of white pepper
+Salt to taste
+Oil as required
+"
+    </string>
+    <string name="l9_tarqeeb">"
+Put the oyster sauce, ginger, garlic, lemon juice, cinnamon powder, pepper, white pepper and salt in a bowl and prepare the mixture.
+Mix this mixture well on the chicken inside and out by hand.
+Then finely chop the green onion, common onion, ginger (a medium piece) and four cloves of garlic and fill inside the chicken.
+Then add a little oil to the chicken and wrap it in silver foil and place it in the oven. The temperature of the oven should be 180 degrees.
+After forty to forty-five minutes, your chicken roast is ready.
+This chicken is a popular Chinese style chicken.
+Garnish with chopped lemons, cucumbers and tomatoes on salad leaves and serve with raita or chili sauce.
+Chef Zakir Tip: Put the chicken in the fridge for half an hour before adding the mixture and it will cook quickly.
+"
+    </string>
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="l10_title">Chinese Egg Fried Rice</string>
+    <string name="l10_ehjza">"
+Basmati Rice 1 kg (washed and soaked for 20 minutes)
+Eggs 4 (whisk with a pinch of yellow color)
+Spring onions 1 cup (finely sliced tops or green leaves)
+Carrots 3 (finely sliced)
+Bell pepper 2 (finely sliced)
+Garlic water/essence 2 tbsp
+Soya sauce 2 tbsp
+White vinegar 1 tbsp
+Black pepper ½ tsp (ground)
+Sugar 1 tsp
+Ajinomoto ½ tsp (Chinese Salt)
+Salt To taste
+Cinnamon 1 piece roasted and ground
+Oil 1 cup
+Sesame oil a few drops
+"
+    </string>
+    <string name="l10_tarqeeb">"
+
+Boil water in cooking pan then add rice, 1 tbsp salt and vinegar. Boil rice until 80% done then drain the water and simmer rice on slow heat on five minutes.
+Remove rice from heat and spread in wide dish.
+When you wish to serve, add the oil to a wok or pot and heat.
+Add the garlic water/essence then the eggs and stir it quickly.
+Add the soy sauce, black pepper, bell pepper, carrots and green onions.
+Then stir fry for five minutes and add in the rice.
+Add in the sugar, a bit of the soya rice and ajinomoto and toss gently with two spoons.
+The Egg Fried Rice is ready. Add a few drops of sesame oil on top.
+Serve with Chicken Chilies or Beef Chilies."
+
+    </string>
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="so1_title">Chicken Soup Recipe </string>
+    <string name="so1_ehjza">"
+1 chicken (roasted in the oven)
+2 medium sized carrots
+3 crushed tomatoes
+4 teaspoons of salt
+5 pepper as required
+6 pints of water
+7 medium sized onions
+8 six mustard seeds
+9 chicken stock cubes as desired
+"
+    </string>
+    <string name="so1_tarqeeb">"
+
+1 Take the liver out of the roasted chicken and put it in a deep pot.
+2 Put it on the stove and boil on low heat and remove the foam that comes up. 3 Now add vegetables, mustard seeds and salt and cover the pot and let it cook on low heat for one hour.
+4 until the chicken is tender and well melted.
+5 Now take the chicken out of the pot and strain the soup through a sieve or fine muslin cloth.
+6 Add more salt or pepper if needed.
+7 Now add the chicken stock cubes and stir well
+8 until it dissolves well, the soup is ready to be used by four to six people.
+"
+
+    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="so2_title">Chicken And Corn Soup Recipe</string>
+    <string name="so2_ehjza">"
+1 chicken boneless 100 grams
+2 eggs (scrambled) a number
+3 cornflour four tablespoons
+4 salt to taste
+5 pepper (crushed) a quarter tablespoon
+6 tablespoons white pepper (crushed)
+7 three cups chicken broth
+8 carrots a number
+9 green onions a number
+10 cups of corn kernels (boiled)
+
+"
+    </string>
+    <string name="so2_tarqeeb">"
+
+1 Add boneless chicken, onion and carrot in 3 cups of chicken and cook for 10 to 15 minutes so that the chicken becomes fibrous.
+2 Now take out the vegetables from it then add salt, corn kernels, black pepper, white pepper, soy sauce and vinegar.
+3 Dissolve cornflour in half a cup of water and add to soup
+4 and continue to run the spoon,
+5 Then beat the eggs well and put them in the cooked soup and keep stirring
+6 Cook over low heat for 2 more minutes and serve hot.
+7 Serve with chili sauce, winger and green chillies to enhance the flavor.
+
+"
+    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="so3_title">Tasty Beef And Onion Soup Recipe</string>
+    <string name="so3_ehjza">"
+1 cup 2 ounces
+2 meat 250 grams
+3 onions 1 piece (chop)
+4 tablespoons soy sauce
+5 black pepper powder 1 teaspoon
+6 salt to taste
+7 tablespoons chili sauce
+8 macaroni (boiled) 1/4 cup
+9 1/2 cups corn flour paste
+10 eggs 1 piece (Painted)
+"
+    </string>
+    <string name="so3_tarqeeb">"
+1 Add salt and water to the meat and bring to a boil.
+2 Then take out the boiled meat and fiber it
+3 Heat a saucepan in a saucepan
+4 Add onion, meat, macaroni, soy sauce, black pepper powder and mix well.
+5 Finally add egg and corn flour and stir
+6 Cook over low heat until thick
+7 delicious beef and onion soup is ready
+8 Pour into a serving bowl and garnish with chili sauce and serve hot
+"
+    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="so4_title">Beef Soup Recipe</string>
+    <string name="so4_ehjza">"
+1 cup of beef
+2 black or white peppers, a teaspoon of salt
+3 teaspoons of sugar salt
+4 onions a number
+5 tablespoons soy sauce
+6 green chopped peppers without seeds
+7 tablespoons vinegar
+
+"
+    </string>
+    <string name="so4_tarqeeb">"
+
+1 Cut the beef into small square pieces, add salt to the water and swallow well
+2 Soy sauce Finely chopped onion, pepper cut into lengths and cook with salt and vinegar
+3 When cooked, serve hot.
+"
+    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="so5_title">Green Peas Creamy Soup Recipe</string>
+    <string name="so5_ehjza">"
+1: pea 1 cup
+2: Bones for burning 1/2 kg
+3: turnips (cut into cubes) 1 piece
+4: onions (cut into slices) 2 pieces
+5: ginger 1 inch bump
+6: garlic (chop) 6 yolks
+7: potatoes (cut into cubes) 1 piece
+8: carrots (chop) 1 piece
+9: tablespoons flour
+10:  cups of milk
+11:  cumin powder 1/2 teaspoon
+12:  cinnamon 1 piece
+13:  cream 1/2 cup
+14:  black pepper powder custom
+15:  Salt to taste
+16:  ghee 2 tbsp
+"
+    </string>
+    <string name="so5_tarqeeb">"
+
+1: Put bones, 1 onion, garlic, ginger, cinnamon, salt, chilli powder, turnip, potatoes, carrots and 8 cups of water in 1 saucepan and cook on low heat for 1-2 hours.
+2: Then strain the soup
+3: Boil and grind 3 peas
+4: Heat ghee in a saucepan, add onion and fry
+5: Add flour and fry lightly. Add milk and mix
+6: Add 6 peas and soup, mix and cook on low heat for another 15 minutes
+7: Add cream, mix and remove from the oven
+8: Pour into a serving bowl and serve hot
+"
+    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="so6_title">Chinese Bean Corn Soup Recipe</string>
+    <string name="so6_ehjza">"
+
+1: One kilo of cow bones
+2: A cup of corn kernels
+3: Four eggs
+4: Salt and black pepper as required
+5: Three or four potatoes
+6: Cauliflower
+7: One pound
+8: Chinese salt four teaspoons
+9: A cup of corn flour
+10: One onion
+11: Carrots (medium size) three or four pieces
+"
+    </string>
+    <string name="so6_tarqeeb">"
+
+1: Put the beef bones in a pot and add salt, black pepper, onion,
+2: three or four potato pieces, carrot pieces and about four kilos of water and put it on the stove.
+3: Cook over low heat for about four hours to remove the heat.
+4: Then filter and separate the yakni. Swallow the qima and add corn kernels.
+5: Add some carrot pieces and finely chopped cauliflower.
+6: Then cook until they are half cooked. Add salt and ajinomoto (sugar salt) to it.
+7: When the qima is cooked, dissolve it in topani and add corn flour.
+8: Peel a squash, grate it and squeeze the juice.
+"
+    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="so7_title">Swedish Soup Recipe</string>
+    <string name="so7_ehjza">"
+1: One kilo of yakni
+2: 10 grams ground black pepper
+3: A spoonful of sugar
+4: Karam Kala 50 grams
+5: 50 grams of butter
+ "
+     </string>
+     <string name="so7_tarqeeb">"
+
+First make a meat grinder and keep it aside.
+Then clean the carcass. Throw away its thick leaves and chop the rest finely.
+Then fry pan method: Heat butter and fry in it.
+Keep the flame low and add sugar at the same time.
+Mix it with a spoon. Now turn this frying pan over in a large saucepan and put the saucepan on the stove
+and add the yakni and pepper and leave it on the stove for two hours then take it off and serve in bowls.
+"
+    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="so8_title">Chinese Egg Fried Rice</string>
+    <string name="so8_ehjza">"
+1: tomato 1 kg
+2: onions (grate) 1 piece
+3: garlic cloves 2 tbsp
+4: 1/2 teaspoon white pepper powder
+5: cups chicken broth 3 cups
+6: tablespoons butter 1 tbsp
+7: cornflour 1 tbsp
+8: cream 1 cup
+9: Salt to taste
+"
+    </string>
+    <string name="so8_tarqeeb">"
+
+1: Put garlic and tomatoes in a saucepan and bring to a boil
+2: Peel a squash, grate it and squeeze the juice
+3: When the mixture is smooth, strain it out into a bowl
+4: Heat butter in 4 sauce patches, add onion and fry
+5: Add tomato mixture, salt, white chilli powder and chicken broth and cook.
+6: After 15 minutes, add cornflour in 1/2 cup water, mix and add to the soup
+7: Keep stirring for 7 tablespoons. When it thickens, add cream, mix and cook
+8: Pour into a serving bowl and serve hot."
+    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="so9_title">Broccoli Careem Soup Recipe</string>
+    <string name="so9_ehjza">"
+1: broccoli 200 grams
+2: cups of fresh cream
+3: salt to taste
+4: small onions
+5: carrots a number
+6: four cups of ice
+7: Half a teaspoon of ground black pepper
+8: tablespoons of flour
+9: tablespoons cooking oil
+"
+    </string>
+    <string name="so9_tarqeeb">"
+
+1: Peel a squash, grate it and squeeze the juice. Finely chop the onion and carrot.
+2: Put all these vegetables in the pan and cook, then add salt and pepper.
+3: When the vegetables are cooked over low heat, crush them with a wooden spoon and sift through a sieve.
+4: Fry in cooking oil with flour in a pan and when it smells, remove the pan from the oven and add cream little by little.
+5: While stirring 5 wooden spoons, also mix the filtered soup.
+6: Spoon over low heat until the soup is well heated.
+"
+    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+
+    <string name="so10_title">Cream Of Chicken Soup Recipe</string>
+    <string name="so10_ehjza">"
+1: chicken seasoning (boiled) 1/2 cup
+2: chicken nuggets 1.1 / 2 cup
+3: onions (chopped) a teaspoon
+4: Garlic (chopped) A gamble
+5: 1/2 cups fresh milk
+6: 1/4 teaspoon chopped pepper
+7: parcels (chopped) 1/4 teaspoon
+8: All spice powder a pinch
+9: a pinch of paprika powder
+10: cups of fresh milk
+11: flour (sifted) 1/4 cup
+12: 1/4 teaspoon salt
+13: To decorate with green coriander
+"
+    </string>
+    <string name="so10_tarqeeb">"
+
+1: Cook a tablespoon of garlic and onion in a saucepan for a few minutes
+2: Then add the remaining 1/2 milk, pepper, parsley, all-spice powder, paprika powder and salt.
+3: When it boils, put it on the tail
+4: Mix the flour in the remaining milk and add it to the saucepan while stirring
+5: When it thickens, take it out in cups
+6: Add chicken and sprinkle coriander."
+    </string>
+    <!--##########################################################################################################################################################################################################                              -->
+    <!--   ***************************************************************************************** Salads******************************************************************************************************* -->
+    <!--##########################################################################################################################################################################################################                              -->
+    <string name="s1_title">Pepperoni Pasta Salad Recipe</string>
+    <string name="s1_ehjza">"
+1: pepperoni 100 gms
+2: pasta 100 gms
+3: salt to taste
+4: dried garlic powder half a teaspoon
+5: chopped pepper one teaspoon
+6: sugar half a teaspoon
+7: brown sugar one tablespoon
+8: pepper half a teaspoon
+9: vinegar one tablespoon
+10:  broccoli flowers 100 grams
+11:  cottage cheese one cup
+12:  finely chopped soy a teaspoon
+13:  green peppers two tablespoons
+14:  cooking oil four tablespoons
+"
+    </string>
+    <string name="s1_tarqeeb">"
+
+1: First prepare the salad dressing. For this, put salt, brown sugar, vinegar, ground black pepper, hot sauce and cooking oil in a bottle and close the bottle tightly and shake vigorously for three to four minutes.
+2: Refrigerate the dressing until the salad is ready. Boil
+3: small sized pastas, boil the broccoli flowers in boiling water with salt and sugar for three to four minutes then put in a sieve and pour cold water over it.
+4: Place the cottage cheese on the kitchen counter and rub it with the palm of your hand, then mix salt, finely chopped green chillies and soy in it, put it in a square platter and keep it in the fridge, then cut it into square pieces.
+5: In a large bowl, Add the cottage cheese and baby tomatoes and add the prepared cooking oil dressing to it, mix well with the help of two tablespoons and keep in the fridge.
+"    </string>
+
+
+    <!--##########################################################################################################################################################################################################                              -->
+    <string name="s2_title">American Corn Salad Recipe</string>
+    <string name="s2_ehjza">"
+1: Sweet Corn
+2: 1/2 cups Cucumber 2 tablespoons
+3: onions 1 tablespoon
+4: tomatoes 2 tablespoons medium
+5: Salt to taste
+6: chopped pepper half a teaspoon
+7: green peppers 1 to 2 tablespoons
+8: green coriander custom
+9: cooking oil 2 tablespoons
+"
+    </string>
+    <string name="s2_tarqeeb">"
+
+1: Boil 1Sweet Corn in boiling water with vinegar for 5 to 7 minutes and sieve it in a sieve.
+2: Pour cold water over it and dry it thoroughly.
+3: Finely chop the onion.
+4: Lightly fry the sweet corn in cooking oil and take it out. In
+5: IN bowls add onion, tomato, cucumber, sweet corn and finely chopped green chillies and mix. Give."
+    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+    <string name="s3_title">Russian Salad Recipe</string>
+    <string name="s3_ehjza">"
+1: boiled meat 250 g (small herbs)
+2: carrots 1 tsp
+3: turnips 1 tsp peas (boiled) half a cup
+5: eggs boiled 1
+6: rye (ground) 1 teaspoon
+7: sugar 1 teaspoon
+8: salt to taste
+9: olives Oil three teaspoons
+10:  vinegar two teaspoons
+11:  beetroot one number
+12:  salad leaves custom
+13:  oil two tablespoons
+"
+    </string>
+    <string name="s3_tarqeeb">"
+
+1: Cut all the vegetables and bring to a boil.
+2: Heat oil in a frying pan and fry the boiled herbs.
+3: Put the vegetables, meat and all the spices in an open mouth bowl and mix well.
+
+"    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+    <string name="s4_title">Vegetable Sealed</string>
+    <string name="s4_ehjza">"
+1: cauliflower (two hundred and fifty grams)
+2: carrots chopped into two slices
+3: peas three quarters cup
+4: potatoes cut into two cubes
+5: green peppers two finely chopped
+6: yogurt one cup
+7: salt to taste
+8: honey two tablespoons
+9: black salt half a tea Tablespoon
+10: cream half cup
+11: hara dhania two tablespoons
+12: salad leaves for serving
+13: hara dhania for garnishing
+"
+    </string>
+    <string name="s4_tarqeeb">"
+
+1: Boil cauliflower and carrot in salt water and cool in cold water.
+2: Boil peas in salt water and cool in cold water.
+3: Boil and peel potatoes and cut and then cool.
+4: Then add yoghurt, salt, honey, black salt, cream and green chillies in a bowl and mix.
+5: Put all the vegetables in the yoghurt mixture and mix.
+6: Garnish with green coriander and serve cold.
+"
+    </string>
+<!--    &lt;!&ndash;##########################################################################################################################################################################################################            -->
+   <string name="s5_title">FULL MEAL SALAD</string>
+    <string name="s5_ehjza">"
+1: chicken breast
+2: lemon juice 4 tbsp
+3: honey 1 tbsp
+4: double bread slices 3 to 4 tbsp
+5: capsicum 2 tbsp
+6: crushed pepper 1 tbsp
+7: cooking oil as required
+8: cucumbers 2 tbsp Mint half a lump
+"
+    </string>
+    <string name="s5_tarqeeb">"
+
+1: Cut slices of double bread into custom shapes and fry in cooking oil until golden.
+2: Chop the chicken breasts and marinate them with salt, pepper and two tablespoons of cooking oil.
+3: Then put the cucumber in a large bowl.
+4: Cut tomatoes and capsicum into small pieces, sprinkle with finely chopped mint and lemon juice, mix well and refrigerate.
+5: Fry the chicken in a non-stick frying pan over high heat until golden and finally add honey. Put it and take it off the stove.
+6: When serving, take out the chicken in a bowl and mix it with vegetables. Serve with fried double bread.
+"
+    </string>
+    <string name="s6_title">Mix Fruit Salad Recipe</string>
+    <string name="s6_ehjza">"
+1: mango 1 pieace
+2: tablespoons mayonnaise
+3: Peaches 1 pieace
+4: bananas 1 pieace
+5: apples 1 pieace
+6: half a cup of grapes
+7: Aloo Bukhara a number
+8: lemons half
+9: tablespoons yogurt
+10:  teaspoons pepper
+11:  Salt to taste
+12:  Mix nuts Fry a tablespoon and chopped
+13:  Cabbage as required
+14:  tablespoons mayonnaise
+"
+    </string>
+    <string name="s6_tarqeeb">"
+1: Chop mango, peach, banana and apple. Mix lemon juice in mayonnaise in a bowl.
+2: Add salt, pepper and yogurt and mix well.
+3: Add chopped fruits, grapes and aloe vera Add mayonnaise mixture on top and mix.
+4: Then put it in cabbage flower. Garnish with mix nuts and serve.
+"    </string>
+
+    <string name="s7_title">Corn Tomato Salad</string>
+    <string name="s7_ehjza">"
+1: Kiln Grain 2 Cups
+2: Red and Green Capsicum (Square Chopped) One, One Slice
+3: Pineapple Slices 1/2 Cup
+4: Tomatoes (Seed and Small Chopped) 3 Slots
+5: Lemon Cars 2 Tablespoons
+6: Sliced ​​Pepper One Meal Tablespoon
+7: green chillies (finely chopped) 2 tablespoons
+8: mint leaves 1/2 cup
+9: salt to taste
+"
+    </string>
+    <string name="s7_tarqeeb">"
+
+1: Mix all the ingredients in a bowl and keep in the fridge.
+2: When it cools down, serve."
+
+    </string>
+    <string name="s8_title">Smoked Mackerel Salad Recipe</string>
+    <string name="s8_ehjza">"
+1: A number of finely chopped cucumbers
+2: Salt to taste
+3: A few closed leaves
+4: Salad leaves to taste
+5: 4 hard boiled eggs
+6: 12 ounces of smoked mackerel pieces
+7: Slightly crushed garlic
+"
+    </string>
+    <string name="s8_tarqeeb">"
+1: Put the cucumber in a plate with salt and press it hard with the other plate and leave it for half an hour.
+2: Then finely chop the cabbage leaves and salad leaves on the edges of a bowl.
+3: Place round pieces of cucumber on the surrounding leaves.
+4: Then decorate with egg pieces. Place the fish in the middle.
+5: Mix the garlic with the lemon vinaigrette and put it on top."
+
+    </string>
+    <string name="s9_title">Glass Noodles Salad</string>
+    <string name="s9_ehjza">"
+1: Glass noodles packet
+2: 200 grams of small sliced ​​chicken
+3: Two tablespoons of pure oil
+4: Prawns 100 grams
+5: Two tablespoons of vinegar
+6: Two tomatoes
+7: Two capsicums
+8: A tablespoon of soybean sauce
+9: A tablespoon of fish sauce (if desired)
+10: A tablespoon of tomato ketchup
+11: A tablespoon of lemon juice
+12: Two green peppers
+13: Salt and pepper to taste
+"
+    </string>
+    <string name="s9_tarqeeb">"
+
+ 1: Heat water in a saucepan in which noodles come easily.
+ 2: Remove the saucepan from the stove, add a glass of noodles to the water and soak for half an hour.
+ 3: Peel a squash, grate it and squeeze the juice.
+ 4: Peel a squash, grate it and squeeze the juice. Peel a squash, grate it and squeeze the juice.
+ 5: Cut the tomatoes into long slices.
+ 6: Separate the seeds in the same way and cut them into long slices while chopping the green chillies into small pieces.
+ 7: Heat the oil in a pan.
+ 8: Add the minced chicken and stir well, then cover and cook until the chicken is completely melted.
+ 9: Remove the noodles from the water and mix well with the chicken.
+ 10: Then add cooked prawns and other ingredients.
+ 11: Shake everything well so that all the ingredients come together.
+ 12: Leave on for 10 minutes and then serve.
+"
+    </string>
+    <string name="s10_title">Chicken And Fruit Salad Recipe</string>
+    <string name="s10_ehjza">"
+1: piece of malt or grapefruit
+2: cups of grapes (pour if in season)
+3: bananas two pieces
+4: large apples
+5: Boiled chicken meat
+6: Mayonnaise a cup
+
+"
+    </string>
+    <string name="s10_tarqeeb">"
+
+1:Peel a squash, grate it and cut it into two halves. put it in a frying pan with a couple of drops of ghee.
+2:Put mayonnaise in  salad dishes and put almonds on top.This is how a very delicious salad is made.
+"
+    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+    <!--   ***************************************************************************************** Deserts******************************************************************************************************* -->
+    <!--##########################################################################################################################################################################################################                              -->
+    <string name="d1_title">Chocolate Smoothie Recipe</string>
+    <string name="d1_ehjza">"
+1: Two tablespoons of quiche chocolate
+2: 200 grams of milk
+3: Two tablespoons of sago seeds
+4: Sugar to taste
+
+"
+    </string>
+    <string name="d1_tarqeeb">"
+
+1: Put a quarter cup of water and sago in a pan and cook
+2: When it is well cooked, add milk and cook more
+3: Squeeze the cooking chocolate
+4: In another pan, boil a cup of milk and add whipped chocolate to make sauce.
+5: grinder, add chocolate sauce, sago grains, remaining milk and sugar as required and grind until all the ingredients are uniform.
+"    </string>
+
+
+    <!--##########################################################################################################################################################################################################                              -->
+    <string name="d2_title">Chocolate Lag Recipe</string>
+    <string name="d2_ehjza">"
+1: Drinking chocolate Seven tablespoons of food
+2: cups of glazed cherries
+3: fruit cakes half a cup
+4: half cups of coconut
+5: eggs three
+6:  5 tablespoons of butter
+7: cups of sugar (crushed)
+"
+    </string>
+    <string name="d2_tarqeeb">"
+
+1: Melt the butter
+2: Remove the butter from the oven and add the chocolate and powdered sugar
+3: Beat well and spread in a greased tin
+4: Mix  cherries and fruit cake and spread on the chocolate mixture
+5: Beat eggs and coconut until well ground and spread on top of fruit cake mixture
+6: Bake for 30 to 45 minutes at 180 degrees Celsius
+7: Cool and freeze overnight
+"    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+    <string name="d3_title">Mango And Lemon Mousse</string>
+    <string name="d3_ehjza">"
+1: tablespoon of gelatin
+2: tablespoons lemon juice
+3: mangoes, two pieces of sugar (crushed) fifty grams
+4: two egg whites
+5: thick cream one hundred and fifty ml
+"
+    </string>
+    <string name="d3_tarqeeb">"
+
+1: Soak gelatin in lemon juice until soft
+2: Place the gelatin bowl in a pot of hot water until dissolved
+3: When the gelatin is dissolved, take it off and let it cool
+4: Peel mangoes and grind them in a grinder
+5: Mix the gelatin and mango pulp together and let the mixture set
+6: When the mixture is half frozen, add the whipped cream and egg whites which have been beaten so that they become inflexible.
+7: Refrigerate until fully set
+8: Remove from the molds and serve with cream and mango pieces
+"    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+    <string name="d4_title">Chocolate Mousse Recipe</string>
+    <string name="d4_ehjza">"
+1: egg four pieces
+2: Castor Sugar Man Cup
+3: cups of cream
+4: pieces of chocolate
+5: (Slab) Three tablespoons of orange juice
+6: thick cups (to serve) half a cup
+7: chocolate (smoked) as needed
+
+"
+    </string>
+    <string name="d4_tarqeeb">"
+
+1: Place the chocolate on top of a pot of hot water and melt until shiny
+2: When the chocolate has melted, take it off and leave to cool
+3: Grind 3 eggs and sugar
+4: Place a bowl of 4 egg mixture on a pot of hot water and beat until the mixture thickens.
+5:Spoon the 5 egg mixture into the melted chocolate and mix well with the orange juice.
+6: Whisk the cream until it foams
+7: Mix in the mixture and refrigerate until set
+8: Add a scoop of chocolate mousse to serve
+9: Garnish with whipped cream and whipped chocolate
+
+"    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+    <string name="d5_title">Apple Cream Recipe</string>
+    <string name="d5_ehjza">"
+1: apple (large size) two pieces
+2: cups of milk
+3: cups of cream
+4: tablespoons of sugar
+5: tablespoons of gelatin
+6: apples (for decoration) a few pieces
+7: a teaspoon of vanilla essence
+"
+    </string>
+    <string name="d5_tarqeeb">"
+
+1: Peel an apple and grate it into small pieces
+2: Grind to make a soft pulp
+3: You can also mix a teaspoon of lemon juice in it to prevent its discoloration.
+4: Dissolve the gelatin in a little warm water
+5: Boil the milk
+6: Add apple pulp and sugar and cook for five minutes
+7: Add softened gelatin to the milk mixture
+8: Add the essence and refrigerate until set
+9: Before serving, pour the whipped cream over it and garnish with apple slices
+"    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+    <string name="d6_title">Banana Cream Filan Recipe</string>
+    <string name="d6_ehjza">"
+1: sugar (crushed) 75 grams
+2: Flour 75 grams
+3: eggs
+4: bananas (slices) two pieces
+5: tablespoons Demarara sugar (available at all department stores)
+6: thick cream one hundred and fifty ml
+7: teaspoons of sugar (crushed)
+8: a teaspoon of vanilla essence
+9: Half a cup of dried fruit (chopped)
+ "
+    </string>
+    <string name="d6_tarqeeb">"
+
+1: Put the eggs and sugar in a bowl and place in a pot of hot water
+2: Whisk with 2 egg batters until foamy and thick
+3: Sift the flour
+4: Remove the bowl of 4 egg mixture from the heat and sift half the flour over the egg mixture.
+5: Add the remaining flour
+6: Pour into a greased fillet tin and bake
+7: When golden, remove and cool
+8: put banana slices in a bowl and sprinkle Demarara sugar on them
+9: Beat the cream and add sugar and essence
+10:  Just before serving, spread the cream on the fillet and apply the banana slices on it.
+11:  You can also offer it frozen
+"    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+    <string name="d7_title">Mango Mold Recipe</string>
+    <string name="d7_ehjza">"
+1: tablespoon of gelatin
+2: tablespoons lemon juice
+3: tablespoons of water
+4: mangoes a tin
+5: sugar (crushed) fifty grams
+6: thick cream one hundred and fifty ml
+7: two egg whites
+"
+    </string>
+    <string name="d7_tarqeeb">"
+
+
+1 :Mix  gelatin in lemon juice and let it soften
+2 :Place the gelatin on top of the bowl of hot water and keep stirring until the gelatin is dissolved.
+3 :Take off the gelatin and let it cool
+4 :Put the mango and its juice in a grinder and grind until it thickens
+5 :Mix gelatin and stir
+6 :Place the cream on a bowl of ice cubes and whisk until foamy and add to the mango mixture.
+7 :Beat egg whites until they become inflexible and add them to the mango cream mixture.
+8 :Keep in the refrigerator for five hours or until fully set
+9 :Freeze mango molds and serve with whipped cream and mango pieces."    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+    <string name="d8_title">PMango Delight Recipe</string>
+    <string name="d8_ehjza">"
+1: mango (chopped) two cups
+2: cups cottage cheese
+3: pine apple jelly two packets
+4: cups of cream
+5: three-quarters cup of sugar
+6: three glasses of warm water
+
+"
+    </string>
+    <string name="d8_tarqeeb">"
+
+1: Make jelly from one packet of jelly according to the instructions on the packet and freeze
+2: Add the mango pieces and let it freeze completely
+3: Put the cheese, cream and sugar in a mixer and grind until soft
+4: Dissolve the second packet of jelly in three-quarters glass of warm water and mix in the cheese mixture and grind again.
+5: Pour over frozen jelly and freeze
+6: Serve with  whipped cream
+"    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+    <string name="d9_title">Snow Pudding Recipe</string>
+    <string name="d9_ehjza">"
+Two cups of water
+Two egg whites
+A tablespoon of lemon juice
+A cup of sugar
+Three tablespoons of gelatin
+"
+    </string>
+    <string name="d9_tarqeeb">"
+
+Dissolve gelatin and sugar in water and cook over medium heat.
+Add lemon juice. When it thickens a little, leave it to freeze.
+When it is half frozen, mix the egg whites well and put it to freeze again.
+
+"    </string>
+
+    <!--##########################################################################################################################################################################################################                              -->
+    <string name="d10_title">Cherry Cheesecake</string>
+    <string name="d10_ehjza">"
+1: walnut fifty grams
+2: cashews 25 grams
+3: hundred grams of melted butter
+4: tablespoons cherries a tin gelatin
+5: soft cheese (cream cheese) 275 grams
+6: Sour cream 120 ml
+7: packets of biscuits
+"
+    </string>
+    <string name="d10_tarqeeb">"
+
+1: Break the biscuits into a powder
+2: Mix  crushed biscuits in chopped fruit and melted butter and press them into greased tin.
+3: Freeze until take on a specific shape
+4: Take out the syrup from the 4 cherries
+5: Sprinkle the gelatin out of the cherry tin on the syrup and leave it on the pot of hot water until dissolved.
+6: Mix cheese, sour cream and sugar and whisk until creamy
+7: Pour the biscuits over the surface in a greased tin
+8: Keep in the refrigerator for six to seven hours
+9: Garnish with 9 cherries and whipped cream
+"    </string>
+    <string name="breakfast">Easy Breakfast food recipes in  English. Make easily at home with complete Step by Step instructions.</string>
+    <string name="lunch">Easy Lunch food recipes in  English. Make easily at home with complete Step by Step instructions.</string>
+    <string name="salad">Easy Salad food recipes in  English. Make easily at home with complete Step by Step instructions.</string>
+    <string name="soup">Easy Soup food recipes in  English. Make easily at home with complete Step by Step instructions.</string>
+    <string name="desert">Easy Desert food recipes in  English. Make easily at home with complete Step by Step instructions.</string>
+
+    <string name="close" />
+    <string name="open" />
+
+
+</resources>
